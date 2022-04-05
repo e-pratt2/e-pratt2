@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hello! My name is Eric and I am a junior CS student.
+I am a primarily self-taught programmer, with primary interests in computer graphics and C++!
+They/Them
 <!--
 **e-pratt2/e-pratt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
