@@ -1,7 +1,7 @@
 ## Hello!
 My name is Eric and I am a junior CS student and a first-year student at EWU.
 
-I am an artist and self-taught programmer, with primary interests in graphic programming and C++! I have built a number of apps and games as personal projects, but I'm excited to take classes to solidify my knowledge! 
+I am an artist and self-taught programmer, with primary interests in graphic programming and C++! I have built a number of apps and [games](https://fuzzyzilla.itch.io/bun-os) as personal projects and online game design competitions, but I'm excited to take classes to solidify my knowledge! 
 
 
 They/Them
