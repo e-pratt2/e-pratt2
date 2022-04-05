@@ -1,5 +1,9 @@
-Hello! My name is Eric and I am a junior CS student.
-I am a primarily self-taught programmer, with primary interests in computer graphics and C++!
+## Hello!
+My name is Eric and I am a junior CS student and a first-year student at EWU.
+
+I am an artist and self-taught programmer, with primary interests in graphic programming and C++! I have built a number of apps and games as personal projects, but I'm excited to take classes to solidify my knowledge! 
+
+
 They/Them
 <!--
 **e-pratt2/e-pratt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
